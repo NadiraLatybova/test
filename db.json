@@ -1,0 +1,586 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "mail": "alex@mail.ru",
+      "login": "alex007",
+      "age": "20",
+      "password": 1232
+    },
+    {
+      "email": "veveve@mail.ru",
+      "password": "$2a$10$P3gmSO.4auBitIJ4pJmBAu82eDsZMy5Pby35ftO8wsUzJ9wA2QG9C",
+      "login": "fwefwfwe",
+      "age": "32323",
+      "id": 2
+    },
+    {
+      "email": "nadira@mail.re",
+      "password": "$2a$10$dH0RYOP4oewaRbsqw98cb.JsapWrizL/tSb3sJHJbK3yBKEELD0Le",
+      "login": "nadira",
+      "age": "20",
+      "id": 3
+    },
+    {
+      "email": "nadira@mail.ru",
+      "password": "$2a$10$83Y.OBKQ5xR1kjblZS8gSO6tehSbxE8u8gKjzgPEaFQR9NpnJFitW",
+      "login": "nadira",
+      "age": "20",
+      "id": 4
+    },
+    {
+      "email": "nadira@gmail.com",
+      "password": "$2a$10$dfzlSbFR0RkpzIRTbwcx7umq6Lav4iaBNaLA7K0THf5zdnChWdKzW",
+      "login": "nadira",
+      "age": "20",
+      "id": 5
+    },
+    {
+      "email": "max@mail.ru",
+      "password": "$2a$10$h1jVKotbfgiwW1LgFHYwweIpGUcmXBuWXH2JvQSQ/QEn4TGLngsJG",
+      "login": "maksat",
+      "age": "20",
+      "id": 6
+    },
+    {
+      "email": "jamila@gmail.com",
+      "password": "$2a$10$v70lMsAz9l8WnI1GQXBV2eU4YPK..IY2z9wnL8Tvsgt1GOgjWQ42K",
+      "login": "jamila",
+      "age": "20",
+      "id": 7
+    },
+    {
+      "email": "latybova@gmail.com",
+      "password": "$2a$10$vPWsz3sLjw.lOufpuTQrd.xfu/MVnZnQ38PhvyIaR50ggrF4/mv.i",
+      "login": "Nadi",
+      "age": "20",
+      "confirmPassword": "Nadira2004",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "title": "Четыре сыра",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Нежная основа с сыром и пикантными кусочками пепперони, идеально сочетает насыщенный вкус и хрустящую корочку.",
+      "price": "400",
+      "ingredients": {
+        "flour": 300,
+        "sunflower oil": "1 teaspoon",
+        "ketchup": "2 teaspoon",
+        "cheese": "100gr",
+        "sausage": "100gr",
+        " yeast": "3gr",
+        "salt": "0,25 teaspoon",
+        "sugar": "0,5 teaspoon",
+        "tomato": 1,
+        "pepper": "60gr",
+        "green onion": "to taste",
+        "water": "80gr",
+        "butter": "25gr"
+      },
+      "img": "Not Found",
+      "id": 6
+    },
+    {
+      "title": "Пепперони",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Нежная основа с сыром и пикантными кусочками пепперони, идеально сочетает насыщенный вкус и хрустящую корочку.",
+      "price": "400",
+      "ingredients": {
+        "flour": 300,
+        "sunflower oil": "1 teaspoon",
+        "ketchup": "2 teaspoon",
+        "cheese": "100gr",
+        "sausage": "100gr",
+        " yeast": "3gr",
+        "salt": "0,25 teaspoon",
+        "sugar": "0,5 teaspoon",
+        "tomato": 1,
+        "pepper": "60gr",
+        "water": "80gr",
+        "butter": "25gr"
+      },
+      "img": "Not Found",
+      "id": 7
+    },
+    {
+      "title": "Карбонаро",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Идеально приготовленная пицца с соусом Карбонара. Невероятно хрустящая корочка прекрасно контрастирует с сыром и жидкими яичными желтками.",
+      "price": "400",
+      "ingredients": {
+        "flour": 300,
+        "mozzarella": "150gr",
+        "parmesan": "70gr",
+        "egg": 3,
+        "tomato sauce": "3 teaspoon",
+        "sausage": "100gr",
+        "salt": "0,25 teaspoon",
+        "sugar": "0,5 teaspoon",
+        "olive oil": "2 teaspoon",
+        "water": "80gr",
+        "butter": "25gr"
+      },
+      "img": "Not Found",
+      "id": 8
+    },
+    {
+      "title": "Маргарита",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Пицца Маргарита — традиционная итальянская пицца, пожалуй, самая популярная в мире.",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "mozzarella": "150gr",
+        "basil": "8-10 leaves",
+        "tomato": 1,
+        "salt": "0,25 teaspoon",
+        "sugar": "0,5 teaspoon",
+        "olive oil": "2 teaspoon",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 9
+    },
+    {
+      "title": "Гавайская",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Придуманная греком в Канаде пицца Гавайская унаследовала лучшее от итальянской пиццы и гавайского тоста с ветчиной, ананасом и сыром, представляющего немецкую кухню. ",
+      "price": "450",
+      "ingredients": {
+        "flour": 300,
+        "tomato sauсe": "2 tbsp",
+        "cheese": "150gr",
+        "Pineapple": "100gr",
+        "chicken fillet": "150gr",
+        "dried oregano": "0.5 tsp",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 10
+    },
+    {
+      "title": "Пицца с грибами",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Эта пицца готовится из простого дрожжевого теста на воде и оливковом масле, с добавлением сушёного базилика. В качестве начинки - ароматная колбаса, грибы, оливки и сыр. Пицца получается сытной, вкусной и ароматной, а особенно радует мягкая и воздушная основа.",
+      "price": "450",
+      "ingredients": {
+        "flour": 300,
+        "Sausage": "70gr",
+        "basil": "1 tbsp",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "champignons": "80gr",
+        "Pineapple": "100gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 11
+    },
+    {
+      "title": "Жюльен",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Эта пицца готовится из простого дрожжевого теста на воде и оливковом масле, с добавлением сушёного базилика. В качестве начинки - ароматная колбаса, грибы, оливки и сыр. Пицца получается сытной, вкусной и ароматной, а особенно радует мягкая и воздушная основа.",
+      "price": "450",
+      "ingredients": {
+        "flour": 300,
+        "milk": "240gr",
+        "Onion": 1,
+        "Chicken fillet": 2,
+        "Sausage": "70gr",
+        "basil": "1 tbsp",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "champignons": "80gr",
+        "Pineapple": "100gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 12
+    },
+    {
+      "title": "Пицца с морепродуктами",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Пицца с топпингом из морского коктейля, т.е. из готового ассорти из морепродуктов - очень интересная на вкус, не лишена полезности и добавит разнообразия в ваше меню.",
+      "price": "450",
+      "ingredients": {
+        "flour": 300,
+        "olive": "to taste ",
+        "Onion": 1,
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 13
+    },
+    {
+      "title": "Четыре сезона ",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Пицца с топпингом из морского коктейля, т.е. из готового ассорти из морепродуктов - очень интересная на вкус, не лишена полезности и добавит разнообразия в ваше меню.",
+      "price": "450",
+      "ingredients": {
+        "flour": 300,
+        "Mushroom": "50gr",
+        "ham": "100gr",
+        "oregano": "50gr",
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 14
+    },
+    {
+      "title": "Баварская",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Пицца Бавария — востребованное блюдо в Германии. Известна тонким тестом и разнообразными мясными начинками. Эта пицца получается очень сытной, с насыщенным островатым вкусом.",
+      "price": "450",
+      "ingredients": {
+        "flour": 300,
+        "pickled cucumbers": 2,
+        "mustard sauce": "30gr",
+        "red onion": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 15
+    },
+    {
+      "title": "Мясная",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Сочная пицца с миксом мясных ингредиентов и тянущимся сыром, идеально сбалансированный вкус для любителей мясных деликатесов",
+      "price": "400",
+      "ingredients": {
+        "flour": 300,
+        "Chicken": "500gr",
+        "pickled cucumbers": 2,
+        "mustard sauce": "30gr",
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 16
+    },
+    {
+      "title": "Азиатская",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Сочная пицца с миксом мясных ингредиентов и тянущимся сыром, идеально сбалансированный вкус для любителей мясных деликатесов",
+      "price": "400",
+      "ingredients": {
+        "flour": 300,
+        "minced beef": "500gr",
+        "pickled cucumbers": 2,
+        "pepper": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 17
+    },
+    {
+      "title": "Мексиканская",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Яркая и острая пицца с пикантной сальсой, приправленным мясом, халапеньо, сладкой кукурузой и смесью чеддера и моцареллы. Идеальный выбор для любителей острых вкусов!",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "salsa sauce": "10gr",
+        "jalapeno pepper": "20gr",
+        "pickled cucumbers": 2,
+        "pepper": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 18
+    },
+    {
+      "title": "Деревенская",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Сытная пицца с аппетитной смесью домашних ингредиентов — картофель,свежие томаты, лук и сыр моцарелла. Настоящий вкус деревенской кухни!",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "salsa sauce": "10gr",
+        "Sausage": "100gr",
+        "pickled cucumbers": 2,
+        "pepper": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 19
+    },
+    {
+      "title": "Аррива!",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Итальянский класс с пикантной ноткой! Сочетание томатного соуса, нежной моцареллы, острых колбасок, свежих оливок и болгарского перца, приправленное ароматными травами.",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "salsa sauce": "10gr",
+        "Sausage": "100gr",
+        "pickled cucumbers": 2,
+        "pepper": 1,
+        "garlic": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 20
+    },
+    {
+      "title": "Сырный цыпленок",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Нежная пицца с сочным куриным филе, покрытая слоем плавленого сыра, обжаренными грибами и ароматными специями. Идеальный выбор для любителей сыра и курицы!",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "salsa sauce": "10gr",
+        "Chicken": "100gr",
+        "pickled cucumbers": 2,
+        "pepper": 1,
+        "garlic": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 21
+    },
+    {
+      "title": "Песто",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Восхитительная пицца с тонким слоем ароматного песто, свежими томатами, моцареллой и базиликом. Идеальное сочетание для любителей свежих и насыщенных вкусов!",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "brinza": "50gr",
+        "salsa sauce": "10gr",
+        "Chicken": "100gr",
+        "pickled cucumbers": 2,
+        "pepper": 1,
+        "garlic": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 22
+    },
+    {
+      "title": "Ветчина и грибы",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Сытная пицца с нежной ветчиной, свежими грибами и расплавленным сыром на томатной основе. Идеальное сочетание для любителей классических вкусов!",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "brinza": "50gr",
+        "salsa sauce": "10gr",
+        "Chicken": "100gr",
+        "pickled cucumbers": 2,
+        "ham": "30gr",
+        "pepper": 1,
+        "garlic": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 23
+    },
+    {
+      "title": "Овощи и грибы",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Яркая и ароматная пицца, наполненная свежими овощами, такими как болгарский перец, шпинат и лук, с добавлением нежных грибов и растопленного сыра. Идеальный выбор для любителей вегетарианских блюд!",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "brinza": "50gr",
+        "salsa sauce": "10gr",
+        "Mushroom": 4,
+        "Chicken": "100gr",
+        "pickled cucumbers": 2,
+        "ham": "30gr",
+        "pepper": 1,
+        "garlic": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 24
+    },
+    {
+      "title": "Пепперони Фреш",
+      "sizes": [
+        25,
+        30,
+        35
+      ],
+      "description": "Аппетитная пицца с тонкими ломтиками пикантной пепперони, свежими помидорами и расплавленным сыром на хрустящем тесте. Идеальный выбор для поклонников классических и острых вкусов!",
+      "price": "300",
+      "ingredients": {
+        "flour": 300,
+        "brinza": "50gr",
+        "salsa sauce": "10gr",
+        "Mushroom": 4,
+        "Sausage": "100gr",
+        "pickled cucumbers": 2,
+        "ham": "30gr",
+        "pepper": 1,
+        "garlic": 1,
+        "olive": "to taste ",
+        "tomato sauсe": "2 tbsp",
+        "mozzarella": "70gr",
+        "salt": "0,25 tsp",
+        "sugar": "0,5 tsp",
+        "olive oil": "2 tsp",
+        "water": "80gr"
+      },
+      "img": "Not Found",
+      "id": 25
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+.home{
+  padding: 30px 32px;
+  &__row-content{
+    display: flex;
+    column-gap: 30px;
+  }
+  &__content{
+    cursor: pointer;
+    padding: 30px 0 30px;
+    display: flex;
+    justify-content: space-between;
+
+    &-title{
+      color: rgb(25, 25, 25);
+      font-family: Inter,sans-serif;
+      font-size: 40px;
+      font-weight: 600;
+      line-height: 48px;
+    }
+
+    &-block{
+      display: flex;
+      column-gap: 3px;
+      align-items: center;
+      padding: 9px 16px;
+      box-sizing: border-box;
+      border: 1px solid rgb(240, 240, 240);
+      border-radius: 6px;
+
+      background: rgb(255, 255, 255);
+    }
+  }
+&__row{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+
+}
